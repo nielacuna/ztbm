@@ -17,4 +17,8 @@ operating systems.
 
 Here are the steps I have taken so far:
 
-[Part 0](00_Introduction/README.md) : Introduction to the journey
+ + [Part 0](00_Introduction/README.md): Introduction to the journey
+ + [Part 1](01_Directory_Layout/README.md): Directory Layout
+ + [Part 2](02_Build_System/README.md): Build System
+ + [Part 3](03_Arm_Makefile_Fragment/README.md): Arm Makefile Fragment
+ + [Part 4](04_Linker_Script_and_Memory_Layout/README.md): Linker Script and Memory Layout
